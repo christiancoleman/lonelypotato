@@ -1,0 +1,11 @@
+RottenPotatoEXE/.vs/
+RottenPotatoEXE/MSFRottenPotato/x64/Release/MSFRottenPotato.tlog/
+*.log
+*.tlog
+*.pch
+*.exp
+*.obj
+*.iobj
+*.ipdb
+*.lib
+*.pdb
